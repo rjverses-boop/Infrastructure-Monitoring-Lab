@@ -4,7 +4,7 @@
 
 This project implements an enterprise monitoring platform using:
 
-- Ubuntu Server 24.04 LTS
+- Ubuntu Server 26.04 LTS
 - Prometheus
 - Grafana
 - Node Exporter
